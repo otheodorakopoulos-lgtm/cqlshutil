@@ -9,7 +9,7 @@ The specific assignment was developed using go 1.25.1
 
 To build the project use the following command 
 ```bash
-git clone https://github.com/yourusername/YourProjectName.git
+git clone https://github.com/otheodorakopoulos-lgtm/cqlshutil.git
 go build -o cqlshutil.exe ./cmd/main.go
 ```
 
