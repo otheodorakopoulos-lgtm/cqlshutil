@@ -32,3 +32,12 @@ or
 ./cqlshutil.exe download 2025.2.2 > test.tar.gz
 ```
 Currently only the 2025.1 and 2025.2 minor releases are supported.
+
+## Testing
+
+To run all unit tests you can use the following command:
+
+```bash
+go test -v ./...
+```
+
