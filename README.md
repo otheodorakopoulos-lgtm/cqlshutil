@@ -13,7 +13,7 @@ git clone https://github.com/otheodorakopoulos-lgtm/cqlshutil.git
 go build -o cqlshutil.exe ./cmd/main.go
 ```
 
-You can list the available versions of cqlsh for download and availability in ScyllaDB Cloud using the following command:
+You can list the versions of cqlsh that are available for download in ScyllaDB Cloud using the following command:
 
 ```bash
 ./cqlshutil.exe list 
